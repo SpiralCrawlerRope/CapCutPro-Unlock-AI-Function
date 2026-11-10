@@ -1,3 +1,6 @@
+<img width="6244" height="2708" alt="image" src="https://github.com/user-attachments/assets/3f645bc8-5c22-493d-9194-7058cc558c21" />
+
+<img width="2658" height="1703" alt="image" src="https://github.com/user-attachments/assets/7ff21f0f-3efe-4abe-9f5b-b2e5e1cc864f" />
 
 
 
@@ -6,6 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,5,10&height=140&section=header&text=CAPCUT%20%E2%80%A2%20PRO%20CRACK&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Next-Gen%20Video%20Editing%20Environment&descSize=14&descColor=00f2fe" width="100%"/>
 
+<img width="2408" height="1324" alt="image" src="https://github.com/user-attachments/assets/f5a3655c-a1ec-48af-8bff-926f92cfa623" />
 
 
 <div align="center">
