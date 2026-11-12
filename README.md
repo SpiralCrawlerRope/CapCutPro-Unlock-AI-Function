@@ -37,6 +37,8 @@
 
 ## ✨ Features of CapCut Pro
 
+
+
 <div align="center">
 <table>
   <tr>
